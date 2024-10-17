@@ -1,1 +1,1 @@
-It will automatically recommend the crop based on the input values of n,p,k,rainfall,humidity and temperature
+This consist of the ML program used for the prediction of crop in our project boomicare
